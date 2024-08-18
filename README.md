@@ -1,2 +1,2 @@
 # OTP-Generater
-This is an simple OTP Generater Website. 
+This is a simple OTP Generater Website. 
